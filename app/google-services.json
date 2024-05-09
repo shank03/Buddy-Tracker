@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806584858432",
+    "firebase_url": "https://trackbuddy-8b89d-default-rtdb.firebaseio.com",
+    "project_id": "trackbuddy-8b89d",
+    "storage_bucket": "trackbuddy-8b89d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806584858432:android:5e18248c0e2781022feca5",
+        "android_client_info": {
+          "package_name": "com.major.buddytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806584858432-n3mbogr4j4ba151fhkf5phkocn2hqi2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy7YJDD6KjfiAD5mR_b2c9WEHeU42tt3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806584858432-n3mbogr4j4ba151fhkf5phkocn2hqi2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
